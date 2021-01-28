@@ -16,7 +16,7 @@ from core.mailToIP import mailToIP
 from core.employee_lookup import employee_lookup
 from core.google import google
 from core.facebookStalk import facebookStalk
-from core.searchTwitter import searchTwitter
+from core.searchTwitter import searchfacebook
 from core.searchInstagram import searchInstagram
 from core.profilerFunc import profilerFunc
 from core.searchNumber import searchNumber
